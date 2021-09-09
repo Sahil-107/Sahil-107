@@ -30,5 +30,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil-107&show_icons=true&locale=en" alt="sahil-107" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil-107" alt="sahil-107" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil-107" alt="sahil-107" /></a> </p> -->
 
