@@ -28,5 +28,9 @@
 ## &#x1f4c8; Stats
 <p align="center"><img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil-107&show_icons=true&locale=en&layout=compact" alt="sahil-107" /> <img height="200" src="https://github-readme-stats.vercel.app/api?username=sahil-107&show_icons=true&locale=en" alt="sahil-107" /></p>
 
+<p align="center">
+  <img src="https://github.com/Sahil-107/Sahil-107/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil-107" alt="sahil-107" /></a> </p> -->
 
