@@ -6,7 +6,7 @@
 ```js
 {
   title: 'Student',
-  techInterests: ['Coding', 'DevOps', 'Cloud'],
+  techInterests: ['Coding', 'DevOps', 'Cloud', 'App Development'],
   hobbies: ['Reading', 'Coding', 'Gaming', 'Anime', 'Movies/Series'],
   birthDay: {
     day: 30,
@@ -17,6 +17,7 @@
     linkedin: 'https://www.linkedin.com/in/sahil-107',
     gmail: 'sahilnegi10711@gmail.com',
     hackerrank: 'https://www.hackerrank.com/uchiha7',
+    leetcode: 'https://leetcode.com/sahil-107/'
     
   }
 }
